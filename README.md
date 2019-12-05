@@ -1,5 +1,7 @@
 # S3 Object Downloader
 
+Free of long run-times and third party dependencies.
+
 ## Image
 
 Find the image on [Docker Image Hub](https://hub.docker.com/r/pants1/s3-download).
